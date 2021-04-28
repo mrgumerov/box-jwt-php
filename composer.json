@@ -1,5 +1,5 @@
 {
-    "name": "mrgumerov/box-jwt-php",
+    "name": "weatherfx/box-jwt-php",
     "require": {
         "guzzlehttp/guzzle": "^7.2",
         "firebase/php-jwt": "^5.2",
