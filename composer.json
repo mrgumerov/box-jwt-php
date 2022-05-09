@@ -1,7 +1,7 @@
 {
     "name": "weatherfx/box-jwt-php",
     "require": {
-        "guzzlehttp/guzzle": "^7.2",
+        "guzzlehttp/guzzle": "^7.4.2",
         "firebase/php-jwt": "^5.2",
         "laminas/laminas-config": "^3.4",
         "laminas/laminas-dependency-plugin": "^2.1"
